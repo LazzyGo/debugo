@@ -2,14 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://debugo.netlify.app/categories/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://debugo.netlify.app/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/categories/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/posts/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/tags/pybit/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/pybit/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/categories/python/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://debugo.netlify.app/tags/</loc><lastmod>2022-03-07T12:25:48&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/deploy-fastapi-to-heroku/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/tags/fastapi/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/tags/heroku/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://debugo.netlify.app/posts/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://debugo.netlify.app/categories/python/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://debugo.netlify.app/tags/</loc><lastmod>2022-03-07T07:14:16&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/about/</loc><lastmod>2022-03-07T02:59:17&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/categories/study/</loc><lastmod>2022-03-06T23:47:49&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://debugo.netlify.app/to-learn/</loc><lastmod>2022-03-06T23:47:49&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
