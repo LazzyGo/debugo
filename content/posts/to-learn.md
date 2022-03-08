@@ -1,7 +1,6 @@
 ---
 title: "To Learn"
 date: 2022-03-06T23:47:49Z
-tags: ['']
 categories: ['study']
 ---
 
