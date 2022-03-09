@@ -3,16 +3,9 @@
         <title>Debugo</title>
         <link>https://debugo.netlify.app/</link>
         <description>Debugo</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 09:15:46 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 07 Mar 2022 12:25:48 &#43;0000</lastBuildDate>
             <atom:link href="https://debugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>To Do</title>
-    <link>https://debugo.netlify.app/to-do/</link>
-    <pubDate>Tue, 08 Mar 2022 09:15:46 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://debugo.netlify.app/to-do/</guid>
-    <description><![CDATA[UltiSnips  autojs bootstrap5  ]]></description>
-</item><item>
     <title>Pybit API</title>
     <link>https://debugo.netlify.app/pybit/</link>
     <pubDate>Mon, 07 Mar 2022 12:25:48 &#43;0000</pubDate>
@@ -35,6 +28,6 @@
     <pubDate>Sun, 06 Mar 2022 23:47:49 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://debugo.netlify.app/to-learn/</guid>
-    <description><![CDATA[python  flask flask-sqlalchemy flask-restful flask-socket.io fastapi: https://fastapi.tiangolo.com/ pybit: https://bybit-exchange.github.io/docs/linear/ asyncio sqlite3: https://www.w3schools.com/sql/  linux  shell expect vim  javascript  axios: https://axios-http.com/docs/intro socket.io: https://socket.io/ PWA: https://web.dev/progressive-web-apps/ bootstrap5  ]]></description>
+    <description><![CDATA[python  flask flask-sqlalchemy flask-restful flask-socket.io fastapi: https://fastapi.tiangolo.com/ pybit: https://bybit-exchange.github.io/docs/linear/ asyncio sqlite3: https://www.w3schools.com/sql/  linux  shell expect vim  javascript  axios: https://axios-http.com/docs/intro socket.io: https://socket.io/ PWA: https://web.dev/progressive-web-apps/  ]]></description>
 </item></channel>
 </rss>

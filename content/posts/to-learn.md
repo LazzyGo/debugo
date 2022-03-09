@@ -21,6 +21,5 @@ categories: ['study']
 
 ### javascript
 - [ ] axios: https://axios-http.com/docs/intro
-- [ ] socket.io: https://socket.io/
+- [ ] ~~socket.io: https://socket.io/~~
 - [ ] PWA: https://web.dev/progressive-web-apps/
-- [ ] bootstrap5
