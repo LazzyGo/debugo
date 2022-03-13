@@ -7,6 +7,7 @@
  - last_information_for_symbol
  - public_trading_records
  - get_the_last_funding_rate
+ - query_symbol
  - query_mark_price_kline
  - query_index_price_kline
  - query_premium_index_kline
