@@ -13,7 +13,7 @@ categories: ["python"]
  - get_the_last_funding_rate
  - query_mark_price_kline
  - query_index_price_kline
- - query_premium_kline
+ - query_premium_index_kline
 
 ## Account Data Endpoints
 

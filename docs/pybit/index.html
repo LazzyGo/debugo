@@ -6,7 +6,7 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>Pybit API - Debugo</title><meta name="Description" content=""><meta property="og:title" content="Pybit API" />
-<meta property="og:description" content="Market Data Endpoints  query_kline last_information_for_symbol public_trading_records get_the_last_funding_rate query_mark_price_kline query_index_price_kline query_premium_kline  Account Data Endpoints active order  place_active_order get_active_order cancel_active_order cancel_all_active_orders replace_active_order query_active_order  conditional order  place_conditional_order get_conditional_order cancel_conditional_order cancel_all_conditional_orders replace_conditional_order query_conditional_order  position  my_position set_auto_add_margin cross_isolated_margin_switch position_mode_switch add_reduce_margin set_leverage set_trading_stop user_trade_records closed_profit_and_loss  Wallet Data Endpoints  get_wallet_balance wallet_fund_records withdraw_records asset_exchange_records  API Data Endpionts  server_time  " />
+<meta property="og:description" content="Market Data Endpoints  query_kline last_information_for_symbol public_trading_records get_the_last_funding_rate query_mark_price_kline query_index_price_kline query_premium_index_kline  Account Data Endpoints active order  place_active_order get_active_order cancel_active_order cancel_all_active_orders replace_active_order query_active_order  conditional order  place_conditional_order get_conditional_order cancel_conditional_order cancel_all_conditional_orders replace_conditional_order query_conditional_order  position  my_position set_auto_add_margin cross_isolated_margin_switch position_mode_switch add_reduce_margin set_leverage set_trading_stop user_trade_records closed_profit_and_loss  Wallet Data Endpoints  get_wallet_balance wallet_fund_records withdraw_records asset_exchange_records  API Data Endpionts  server_time  " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://debugo.netlify.app/pybit/" /><meta property="og:image" content="https://debugo.netlify.app/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-03-07T12:25:48+00:00" />
@@ -16,11 +16,11 @@
 <meta name="twitter:image" content="https://debugo.netlify.app/logo.png"/>
 
 <meta name="twitter:title" content="Pybit API"/>
-<meta name="twitter:description" content="Market Data Endpoints  query_kline last_information_for_symbol public_trading_records get_the_last_funding_rate query_mark_price_kline query_index_price_kline query_premium_kline  Account Data Endpoints active order  place_active_order get_active_order cancel_active_order cancel_all_active_orders replace_active_order query_active_order  conditional order  place_conditional_order get_conditional_order cancel_conditional_order cancel_all_conditional_orders replace_conditional_order query_conditional_order  position  my_position set_auto_add_margin cross_isolated_margin_switch position_mode_switch add_reduce_margin set_leverage set_trading_stop user_trade_records closed_profit_and_loss  Wallet Data Endpoints  get_wallet_balance wallet_fund_records withdraw_records asset_exchange_records  API Data Endpionts  server_time  "/>
+<meta name="twitter:description" content="Market Data Endpoints  query_kline last_information_for_symbol public_trading_records get_the_last_funding_rate query_mark_price_kline query_index_price_kline query_premium_index_kline  Account Data Endpoints active order  place_active_order get_active_order cancel_active_order cancel_all_active_orders replace_active_order query_active_order  conditional order  place_conditional_order get_conditional_order cancel_conditional_order cancel_all_conditional_orders replace_conditional_order query_conditional_order  position  my_position set_auto_add_margin cross_isolated_margin_switch position_mode_switch add_reduce_margin set_leverage set_trading_stop user_trade_records closed_profit_and_loss  Wallet Data Endpoints  get_wallet_balance wallet_fund_records withdraw_records asset_exchange_records  API Data Endpionts  server_time  "/>
 <meta name="application-name" content="Debugo">
 <meta name="apple-mobile-web-app-title" content="Debugo"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://debugo.netlify.app/pybit/" /><link rel="prev" href="https://debugo.netlify.app/deploy-fastapi-to-heroku/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://debugo.netlify.app/pybit/" /><link rel="prev" href="https://debugo.netlify.app/deploy-fastapi-to-heroku/" /><link rel="next" href="https://debugo.netlify.app/python-data-structure-functions/" /><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -108,7 +108,7 @@
 <li>get_the_last_funding_rate</li>
 <li>query_mark_price_kline</li>
 <li>query_index_price_kline</li>
-<li>query_premium_kline</li>
+<li>query_premium_index_kline</li>
 </ul>
 <h2 id="account-data-endpoints">Account Data Endpoints</h2>
 <h3 id="active-order">active order</h3>
@@ -177,7 +177,8 @@
         </section>
     </div>
 
-    <div class="post-nav"><a href="/deploy-fastapi-to-heroku/" class="prev" rel="prev" title="Deploy Fastapi to Heroku"><i class="fas fa-angle-left fa-fw"></i>Deploy Fastapi to Heroku</a></div>
+    <div class="post-nav"><a href="/deploy-fastapi-to-heroku/" class="prev" rel="prev" title="Deploy Fastapi to Heroku"><i class="fas fa-angle-left fa-fw"></i>Deploy Fastapi to Heroku</a>
+            <a href="/python-data-structure-functions/" class="next" rel="next" title="Python Data Structure Functions">Python Data Structure Functions<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 </article></div>
             </main><footer class="footer">
